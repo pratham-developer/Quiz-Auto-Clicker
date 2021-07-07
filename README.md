@@ -1,2 +1,2 @@
 # Quiz-Auto-Clicker
-An auto clicker for quizes.
+An auto clicker for quizzes.
